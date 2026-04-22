@@ -80,12 +80,6 @@ python hand_gesture_project.py
 
 ---
 
-## 📸 Demo (Optional)
-
-*Add screenshots or GIFs here*
-
----
-
 ## 💡 Future Improvements
 
 * Add sound effects 🔊
